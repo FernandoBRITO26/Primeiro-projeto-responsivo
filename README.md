@@ -1,4 +1,4 @@
-<h1>Meus primeiros projetos resonsivos<h1>
+<h1>Meus primeiros projetos responsivos<h1>
 
 <h2>Fiz esses projetos ultilizando as seguintes tecnologias:<h2>
 
